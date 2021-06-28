@@ -1,8 +1,10 @@
-# ds-netflix-eda
+# Table of contents
+- [Datasets](#datasets)
 
-Github repo: https://github.com/LiyanaRoslie/ds-netflix-eda
+<div id="datasets"></div>
 
-All datasets except the IMDB datasets are included in this repo.
+## Datasets
 
-IMDB datasets can be retrieved here:
+All datasets used except the IMDB datasets are located under datasets folder.    
+The IMDB datasets can be retrieved here:
 https://drive.google.com/drive/folders/15_u_4zOmunuxz8j8YnJzQkG849VPWLdy?usp=sharing
