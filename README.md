@@ -1,6 +1,7 @@
 # Table of contents
 - [Objective](#objective)
 - [Metrics used](#metrics-used)
+- [Libraries used](#libraries-used)
 - [Data preparation](#data-preparation)
 - [Exploratory data analysis overview](#exploratory-data-analysis-overview)
 - [Datasets](#datasets)
@@ -18,6 +19,17 @@ To uncover insights on what types of Netflix contents that are enjoyed and well-
 * How enjoyable the content is determined by the average weighted rating and total votes casted by IMDB users
 * The types of contents refers to MPAA ratings, genres, original content, etc
 * Other factors that also contribute to how enjoyable the content is includes country, release year, duration, etc
+
+<div id="libraries-used"></div>
+
+## Libraries used
+
+Please have the following Python libraries installed to run the Jupyter Notebook
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* WordCloud
 
 <div id="data-preparation"></div>
 
