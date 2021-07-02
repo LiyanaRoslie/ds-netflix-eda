@@ -1,16 +1,25 @@
 # Table of contents
 - [Objective](#objective)
+- [Datasets](#datasets)
 - [Metrics used](#metrics-used)
 - [Libraries used](#libraries-used)
 - [Data preparation](#data-preparation)
 - [Exploratory data analysis overview](#exploratory-data-analysis-overview)
-- [Datasets](#datasets)
+
 
 <div id="objective"></div>
 
 ## Objective
 
 To uncover insights on what types of Netflix contents that are enjoyed and well-received by their viewers
+
+<div id="datasets"></div>
+
+## Datasets
+
+All datasets used except the IMDB datasets are located under ` datasets ` folder.    
+The IMDB datasets can be retrieved here:  
+https://drive.google.com/drive/folders/15_u_4zOmunuxz8j8YnJzQkG849VPWLdy?usp=sharing
 
 <div id="metrics-used"></div>
 
@@ -48,11 +57,3 @@ Please have the following Python libraries installed to run the Jupyter Notebook
 Nine different insights were obtained from doing the exploratory data analysis on Netflix and IMDB data.  
 Correlation matrix, lmplot, violinplot, barplot and wordcloud are used to illustrate the findings and insights.  
 ` The_Netflix_EDA_journey.pptx ` contains the summarized version of the EDA while the full version and source code is located in ` Netflix_EDA_Liyana.ipynb `
-
-<div id="datasets"></div>
-
-## Datasets
-
-All datasets used except the IMDB datasets are located under ` datasets ` folder.    
-The IMDB datasets can be retrieved here:  
-https://drive.google.com/drive/folders/15_u_4zOmunuxz8j8YnJzQkG849VPWLdy?usp=sharing
